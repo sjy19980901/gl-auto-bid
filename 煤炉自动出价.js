@@ -10,7 +10,7 @@
 (function() {
     'use strict';
     let page = 1;
-    let count = 2;
+    let count = 1;
     core();
 
     function core(){
